@@ -10,8 +10,8 @@
 - >Then the electronic Voting Machine(EVM) was introduce to conduct the election for casting the votes and calculating votes which are given to the candidates.
 - >As the time is evolving many new way are introduced for conducting election and online voting system are taking place.
 
-##### Features
-The features are to perform basic fundamental operations such as add,list,search the candidate record.
+# Features
+- > The features are to perform basic fundamental operations such as add,list,search the candidate record.
 
 # Defining the System
 ###### **Software** :  The platform  used to run  this project is visual studio code(version 1.57).
@@ -27,11 +27,11 @@ Voting system includes various operations. It allows user to vote as if they wan
   * 4.New record be added.
 
 # 4 W's and 1'H
-- >Who : We will be responsible to complete the project according to the requirnment in a given time.
-- >What :We should write the program in C and take all the necessary steps to develop the system.
-- >When :The deadline to finish the project is 2 weeks.
-- >Where :With the help of visual studio code,github and online tools we will develop the system .
-- >How : By developing a voting system which will help us to cast the vote online for election.
+- >Who : Any user who want to cast the vote in election.
+- >What :The project main aim is to make a online e-voting system that helps the user to cast the vote in election.
+- >When :When their is need to conduct the election for selecting the representative's it can be done using online voting system.
+- >Where :As for conducting the election many money and human resources are required ,so by using this system it will be cost effective and less human resources will be required .
+- >How : By developing a voting system which has user friendly UI(user interface) which will help them to cast the vote and see the leading candidates.
 
 
 #### **Detail Requirement**
