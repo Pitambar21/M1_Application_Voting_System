@@ -1,6 +1,6 @@
 # M1_Application_Voting_System
 
-## Code Quanity
+## Code Quality
 
 [![Code Grade](https://www.code-inspector.com/project/27819/score/svg)](https://frontend.code-inspector.com/public/project/27819/M1_Application_Voting/dashboard)
 
