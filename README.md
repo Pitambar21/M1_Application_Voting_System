@@ -1,5 +1,13 @@
 # M1_Application_Voting_System
 
+## Code Inspector
+
+[![Code Grade](https://www.code-inspector.com/project/27819/score/svg)](https://frontend.code-inspector.com/public/project/27819/M1_Application_Voting/dashboard)
+
+![Qyality grade](https://www.code-inspector.com/project/27819/status/svg)
+
+
+
 # Voting System Using C Program
 
 - > The online voting system generally allows us and a groups to securely conduct elections and give votes to representatives.
@@ -27,13 +35,14 @@ Voting system includes various operations. It allows user to vote as if they wan
   * 2.List of candidates.
    * 3.Adding overall votes and showing leading one.
   * 4.New record be added.
-
-# 4 W's and 1'H
-- >Who : Any user who want to cast the vote in election.
-- >What :The project main aim is to make a online e-voting system that helps the user to cast the vote in election.
-- >When :When their is need to conduct the election for selecting the representative's it can be done using online voting system.
-- >Where :As for conducting the election many money and human resources are required ,so by using this system it will be cost effective and less human resources will be required .
-- >How : By developing a voting system which has user friendly UI(user interface) which will help them to cast the vote and see the leading candidates.
+  * 
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Design`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_TestplanAnd Output`      | Documents with test plans and procedures
 
 
 #### **Detail Requirement**
