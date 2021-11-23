@@ -9,7 +9,7 @@
  * 
  */
    
-/ Header files 
+// Header files 
 
 #include <stdio.h>
 #define CD_COUNT
@@ -18,7 +18,7 @@
 #define CD3 "PARTY_C"
 #define CD4 "PARTY_D"
 
-/ void for voting system
+// void for voting system
 
 void castVote()
 void castVote()
