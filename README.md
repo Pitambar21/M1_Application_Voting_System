@@ -1,6 +1,6 @@
 # M1_Application_Voting_System
 
-## CPP Check Badge
+## Badges
 
 [![cppcheck-action-test](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml)
 
