@@ -1,0 +1,26 @@
+3_Implementation/src/leadingvote.c:7:23: error: syntax error [syntaxError]
+   FixPath = $(subst /,\,$1)
+                      ^
+3_Implementation/test/test.c:6:25: error: No pair for character ("). Can't process file. File is either invalid or unicode, which is currently not supported. [syntaxError]
+#define PROJECT_NAME    "Voting_System
+                        ^
+3_Implementation/unity/vote.c:41:7: style:inconclusive: Statements following return, break, continue, goto or throw will never be executed. [unreachableCode]
+      getchar();
+      ^
+3_Implementation/unity/vote.c:65:57: warning:inconclusive: Found suspicious operator '&&' [constStatement]
+    (totalVotes4>totalVotes1 && totalVotes4>totalVotes2 && totalVotes4 > totalVotes3);
+                                                        ^
+3_Implementation/unity/vote.c:72:9: style: Unused variable: i [unusedVariable]
+    int i,choice;
+        ^
+3_Implementation/vote.c:41:7: style:inconclusive: Statements following return, break, continue, goto or throw will never be executed. [unreachableCode]
+      getchar();
+      ^
+3_Implementation/vote.c:65:57: warning:inconclusive: Found suspicious operator '&&' [constStatement]
+    (totalVotes4>totalVotes1 && totalVotes4>totalVotes2 && totalVotes4 > totalVotes3);
+                                                        ^
+3_Implementation/vote.c:72:9: style: Unused variable: i [unusedVariable]
+    int i,choice;
+        ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
