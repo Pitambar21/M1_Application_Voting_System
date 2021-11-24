@@ -4,7 +4,7 @@
 
 [![cppcheck-action-test](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml)
 
-[![Git Inspector](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/gitinspector.yml)
+[![Git Inspector](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/gitinspector.yml)                 [![Unit Testing](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/unit-test.yml)
 
 ## Code Quality
 
