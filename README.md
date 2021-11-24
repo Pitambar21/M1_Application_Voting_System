@@ -1,11 +1,13 @@
 # M1_Application_Voting_System
 
+## CPP Check Badge
+
+[![cppcheck-action-test](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml)
+
 ## Code Quality
 
 [![Code Grade](https://www.code-inspector.com/project/27819/score/svg)](https://frontend.code-inspector.com/public/project/27819/M1_Application_Voting/dashboard)
 
-## CPP Check Badge
-[![cppcheck-action-test](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Pitambar21/M1_Application_Voting_System/actions/workflows/cppcheck.yml)
 
 ## Code Grade
 
