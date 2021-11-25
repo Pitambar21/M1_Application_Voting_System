@@ -54,6 +54,17 @@ Voting system includes various operations. It allows user to vote as if they wan
   |LR05| User shall be able to select the NOTA option|Technical|Future|
   |LR06| User shall be able to exit |Technical|Implemented|
   
+  ## Folder Structure
+Folder        | description
+--------------| ----------------------------------------------
+`inc`         | All header files
+`src`         | Main source code for calculator
+`test`        | All source code and data for testing purposes
+`unity`        | All source code which are required for unit testing
+`MakeFile`        | makefile of the project
+`vote.c`        | main source code 
+
+  
   # TEST PLAN:
 ## Table No :-High Level test Plan
 
