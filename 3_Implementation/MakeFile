@@ -10,7 +10,7 @@ LDFLAGS =
 # Makefile settings - Can be customized.
 APPNAME = Voting system
 EXT = .c
-SRCDIR = \Users\mini_Project\project
+SRCDIR = \Users\Amit\Stepin Project\project
 OBJDIR = obj
 
 ############## Do not change anything from here downwards! #############
@@ -66,4 +66,4 @@ cleanw:
 # Cleans only all files with the extension .d
 .PHONY: cleandepw
 cleandepw:
-	$(DEL) $(DEP)
+	$(DEL) $(DEP) 
